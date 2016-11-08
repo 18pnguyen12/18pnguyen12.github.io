@@ -25,11 +25,14 @@ h1{
     color:Black;
     text-align:center;
 }
+#quote{ text-shadow: 2px 2px 8px white;
+    
+}
 
 table{
     border-style:groove;
     border-color:black;
-    font-family:"Courier New";
+    font-family:"Courier New" ;
     color:Black;
     text-align:center;
    
@@ -39,7 +42,7 @@ table{
 img{
     float:center;
 }
-h2{font-family:Impact;
+h2{font-family:"Impact";
     color:Black;
     text-align:Center;
     position:relative;
@@ -61,6 +64,7 @@ p{
     border-spacing: 1em;
     padding: 2em;
 
+    
 }
 ul{
   
@@ -71,6 +75,7 @@ ol{ display: inline-block; text-align: left;
     margin-left:8em;
 }
 li{
+    text-shadow: 2px 2px 8px gray;
     font-family:Charcoal;
     color:Black;
     text-align: center;
