@@ -1,0 +1,115 @@
+a{
+    font-family:Impact;
+    color:Black;
+    position:relative;
+    left:20px;
+}
+header{
+    padding: 1em;
+    color: black;
+    background-color: black;
+    clear: left;
+    text-align: center;
+    
+}
+#header{
+    color: white;
+    font-style: italic;
+    
+}
+html{
+    background: url(images/bg3.jpg);
+}
+h1{
+    font-family:Impact;
+    color:Black;
+    text-align:center;
+}
+#quote{ text-shadow: 2px 2px 8px white;
+    
+}
+
+table{
+    border-style:groove;
+    border-color:black;
+    font-family:"Courier New" ;
+    color:Black;
+    text-align:center;
+   
+    margin-left: 36em;
+    margin-right:0em;
+}
+img{
+    float:center;
+}
+h2{font-family:"Impact";
+    color:Black;
+    text-align:Center;
+    position:relative;
+    left:15px;
+}    
+h3{
+    font-family:Impact;
+    color:Black;
+    text-align:Center;
+    clear:both;
+}
+p{
+  
+    margin-top: 3em;
+    margin-left:auto ;
+    margin-right: auto;
+    width: 30%;
+    border-style: solid;
+    border-spacing: 1em;
+    padding: 2em;
+
+    
+}
+ul{
+  
+    display: inline-block; text-align: left;
+    margin-left:8em
+}
+ol{ display: inline-block; text-align: left;
+    margin-left:8em;
+}
+li{
+    text-shadow: 2px 2px 8px gray;
+    font-family:Charcoal;
+    color:Black;
+    text-align: center;
+    position:relative;
+    right: 5em;
+}
+div { text-align: center; }
+
+#about
+{font-family: Impact;
+color:Black;
+text-align:center;
+}
+#quote
+{font-family: Impact;
+color:Black;
+text-align:center
+}
+
+.nav{
+    color: black;
+    font-size: 3em;
+    padding: 1em;
+}
+
+a:visited {
+    color: black;
+}
+a:hover {
+    color: #808080;
+}
+body{
+       margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
